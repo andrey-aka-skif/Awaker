@@ -155,7 +155,7 @@ MonoBehaviour:
   _targetPrefab: {fileID: 3102739153022571562, guid: dd15e3b431c23ec4f9f71ee15bc57032, type: 3}
   _minSpawnRadius: 5
   _maxSpawnRadius: 20
-  _count: 100
+  _count: 200
 --- !u!4 &86560254
 Transform:
   m_ObjectHideFlags: 0
